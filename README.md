@@ -1,17 +1,9 @@
 <div align="center">
 
-<div style="background: linear-gradient(135deg, #0D1B2A, #1B4332); padding: 40px 50px; border-radius: 18px; margin-bottom: 24px; box-shadow: 0 6px 24px rgba(0,0,0,0.4);">
+# ⚙️ ARM64 Boot Flow
 
-<h1 style="color: #64FFDA; margin: 0; font-size: 2.6em; letter-spacing: 2px; font-family: monospace;">
-⚙️ ARM64 Boot Flow
-</h1>
-
-<p style="color: rgba(255,255,255,0.80); margin: 14px 0 0 0; font-size: 1.15em;">
-Deep-dive documentation of the Linux ARM64 kernel boot path —<br>
-from firmware handoff through MMU enable to <code>start_kernel()</code>
-</p>
-
-</div>
+**Deep-dive documentation of the Linux ARM64 kernel boot path —**<br>
+**from firmware handoff through MMU enable to `start_kernel()`**
 
 </div>
 
@@ -233,8 +225,6 @@ Within each section, documents are numbered for reading order and include cross-
 
 <div align="center">
 
-<sub style="color: #666;">
-ARM64 Boot Flow Documentation &nbsp;·&nbsp; Linux Kernel Internals &nbsp;·&nbsp; AArch64 Architecture
-</sub>
+<sub>ARM64 Boot Flow Documentation &nbsp;·&nbsp; Linux Kernel Internals &nbsp;·&nbsp; AArch64 Architecture</sub>
 
 </div>
